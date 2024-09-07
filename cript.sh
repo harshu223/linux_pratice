@@ -1,6 +1,6 @@
 #!/bin/bash
 while true; do
-	echo "1.  Make a file
+	echo "1. Make a file
 2. Display contents
 3. Copy the file
 4. Rename the file
